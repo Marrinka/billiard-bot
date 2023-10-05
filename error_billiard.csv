@@ -1,0 +1,4 @@
+date,level,message,state,user_id
+2023-10-05 21:32:57,INFO,button start,start,243443254
+2023-10-05 21:33:06,INFO,new user,contact info,243443254
+2023-10-05 21:33:11,ERROR,incorrect course number,contact info,243443254

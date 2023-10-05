@@ -1,0 +1,22 @@
+date,level,message,state,user_id
+2023-10-05 22:30:55,INFO,button start,start,243443254
+2023-10-05 22:31:01,INFO,new user,contact info,243443254
+2023-10-05 22:31:05,INFO,PE flag,contact info,243443254
+2023-10-05 22:31:25,INFO,user changed name,contact info,243443254
+2023-10-05 22:31:28,INFO,test,menu,243443254
+2023-10-05 22:31:33,INFO,choose topic,menu,243443254
+2023-10-05 22:31:35,INFO,topic terms,test,243443254
+2023-10-05 22:32:05,INFO,session interrupted,test,243443254
+2023-10-05 22:32:11,INFO,statistics,statistics,243443254
+2023-10-05 22:32:18,INFO,test,menu,243443254
+2023-10-05 22:32:28,INFO,choose topic,menu,243443254
+2023-10-05 22:32:40,INFO,topic fouls,test,243443254
+2023-10-05 22:34:18,WARNING,incorrect answer,test,243443254
+2023-10-05 22:34:25,INFO,end is reached,test,243443254
+2023-10-05 22:34:28,INFO,statistics,statistics,243443254
+2023-10-05 22:34:33,INFO,other,menu,243443254
+2023-10-05 22:34:35,INFO,test,menu,243443254
+2023-10-05 22:34:36,INFO,choose topic,menu,243443254
+2023-10-05 22:34:38,INFO,back to main,menu,243443254
+2023-10-05 22:34:41,INFO,test,menu,243443254
+2023-10-05 22:34:42,INFO,statistics,statistics,243443254
